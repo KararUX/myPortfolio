@@ -37,29 +37,37 @@
     nav a:hover {
       color: #f39c12;
     }
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  padding: 4rem 2rem;
 
-    .hero {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: center;
-      gap: 50px;
-      padding: 4rem 2rem;
-      background: linear-gradient(to right, #6a11cb, #2575fc);
-      color: white;
-    }
+  background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.600), rgba(0, 0, 0, 0.600)), 
+    url('images/12295561_4954141.jpg'); /* Replace with your image path */
+    
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  color: white;
+}
+
 
     .hero .content {
       max-width: 500px;
     }
 
     .hero h1 {
-      font-size: 50px;
+      font-size: 40px;
       margin-bottom: 1rem;
     }
 
     .hero p {
-      font-size: 1.2rem;
+      font-size: 1rem;
       margin-bottom: 1.5rem;
     }
 
