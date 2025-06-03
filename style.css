@@ -46,14 +46,14 @@
   padding: 4rem 2rem;
 
   background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.100), rgba(0, 0, 0, 0.100)), 
+    linear-gradient(rgba(0, 0, 0, 0.000), rgba(0, 0, 0, 0.000)), 
     url('images/Home\ Page.png'); /* Replace with your image path */
     
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   
-  color: white;
+  color: rgb(14, 13, 13);
 }
 
 
@@ -62,7 +62,7 @@
     }
 
     .hero h1 {
-      font-size: 40px;
+      font-size: 62px;
       margin-bottom: 1rem;
     }
 
@@ -86,7 +86,7 @@
     }
 
     .hero .image img {
-      max-width: 400px;
+      max-width: 600px;
       width: 100%;
       border-radius: 20px;
       margin-top: 2rem;
