@@ -62,7 +62,7 @@
     }
 
     .hero h1 {
-      font-size: 62px;
+      font-size: 44px;
       margin-bottom: 1rem;
     }
 
@@ -72,12 +72,12 @@
     }
 
     .cta {
-      background-color: #fff;
-      color: #2575fc;
+      background-color: #ff9100;
+      color: #ffffff;
       padding: 0.75rem 1.5rem;
       text-decoration: none;
       border-radius: 30px;
-      font-weight: bold;
+      font-weight: bolder;
       transition: background-color 0.3s ease;
     }
 
@@ -130,8 +130,8 @@
       display: inline-block;
       margin: 1rem;
       padding: 0.75rem 2rem;
-      background-color: #2575fc;
-      color: white;
+      background-color: #fc9f25;
+      color: rgb(255, 255, 255);
       text-decoration: none;
       border-radius: 30px;
       font-weight: 600;
