@@ -46,8 +46,8 @@
   padding: 4rem 2rem;
 
   background-image: 
-    linear-gradient(rgba(0, 0, 0, 0.800), rgba(0, 0, 0, 0.800)), 
-    url('images/12295561_4954141.jpg'); /* Replace with your image path */
+    linear-gradient(rgba(0, 0, 0, 0.100), rgba(0, 0, 0, 0.100)), 
+    url('images/Home\ Page.png'); /* Replace with your image path */
     
   background-size: cover;
   background-position: center;
